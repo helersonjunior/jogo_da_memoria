@@ -144,7 +144,6 @@ body {
 @media only screen and (max-width: 400px) {
     #gameBoard {
         max-width: 400px;
-        background-color: green;
     }
 
     .card {
