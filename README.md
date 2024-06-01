@@ -1,3 +1,3 @@
-# Memoria
+# memoria
 
-jogo da Memoria
+jogo da Memória.
